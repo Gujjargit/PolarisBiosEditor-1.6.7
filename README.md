@@ -21,5 +21,5 @@ Read how to activate your PBE license in FAQ
 ## [Download Polaris Bios Editor 3 Pro](https://github.com/Gujjargit/PolarisBiosEditorPRO3/releases/download/PBE3PRO/PBE_3_PRO.rar)
 ![image](https://user-images.githubusercontent.com/98729987/212381117-30cb5693-9e2f-47f7-b3f2-c77e61a35a1f.png)
 
-## Polaris Bios Editor 1.6.7
+## [Download Polaris Bios Editor 1.6.7](https://github.com/IndeedMiners/PolarisBiosEditor-1.6.7/releases/tag/1.6.7)
 ![image](https://user-images.githubusercontent.com/98729987/212380932-ea5d7b57-423c-49b1-bfa3-831fb17fbceb.png)
