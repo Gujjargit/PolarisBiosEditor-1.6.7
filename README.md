@@ -3,7 +3,15 @@
 
 👉 All in one AMD RX Polaris Bios one click editor Pro 🔝⛏🚀
 -----------------------
-Polaris Bios Editor updated to the latest version PBE 3 Pro! This is the one and only PBE tweaked by Mattthev! Polaris Bios Editor 3 Pro updated to the latest version 2020! The original bios mod thread on Bitcointalk started by Mattthev. Free version Polaris Bios Editor 1.7.4 and older classic Polaris Bios Editor 1.6.7. 
+Polaris Bios Editor 3 Pro – simple settings and one click bios mod.
+Tweaked PBE 3 Pro with better performance timings, automatic overclocking and undervolting (power save), ETH, XMR (CN) algo specific timings to increase mining hashrate in all miners.
+
+This is the one and only PBE tweaked by Mattthev!
+
+Polaris Bios Editor 3 Pro updated to the latest version 2023! 
+The original bios mod thread on [Bitcointalk](https://bitcointalk.org/index.php?topic=1954245.0) started by Mattthev. 
+Free version [Polaris Bios Editor 1.7.6](https://github.com/IndeedMiners/PBE-Polaris-Bios-Editor-1.7.4/releases) and older classic [Polaris Bios Editor 1.6.7](https://github.com/IndeedMiners/PolarisBiosEditor-1.6.7/releases)
+[Polaris-bios-editor.eu](http://polaris-bios-editor.eu/)
 
 + Build: Windows binary (.exe)
 + OS: Windows 10 is recommended (Windows 7 and 8 should be fine too), activation might not work on other OS
