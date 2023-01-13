@@ -8,11 +8,11 @@ Polaris Bios Editor updated to the latest version PBE 3 Pro! This is the one and
 
 ## ChangeLog:
 ---------------------
-PBE 3 PRO 2020 August Code cleanup
-PBE 3 PRO 2020 July Bug Fixes
-PBE 3 PRO 2020 New Samsung memory K4G80325FC New device 6FDF AMD Radeon RX 580 2048SP
-PBE 3 PRO 2019 changes and updates Support for RX 590 New memory type H5GC8H24AJ
-PBE 3 PRO changes and updates New Micron, Hynix, Samsung and Elpida timings, better hashrate and stability License checking fixes Some fixes and bugs (Including Hynix typo) New design RX 560 detection due to different timings need GPU vendor detection (Logo is showing now) Tooltips
++ PBE 3 PRO 2020 August Code cleanup
++ PBE 3 PRO 2020 July Bug Fixes
++ PBE 3 PRO 2020 New Samsung memory K4G80325FC New device 6FDF AMD Radeon RX 580 2048SP
++ PBE 3 PRO 2019 changes and updates Support for RX 590 New memory type H5GC8H24AJ
++ PBE 3 PRO changes and updates New Micron, Hynix, Samsung and Elpida timings, better hashrate and stability License checking fixes Some fixes and bugs (Including Hynix typo) New design RX 560 detection due to different timings need GPU vendor detection (Logo is showing now) Tooltips
 If you’ve purchased PBE before 26 Febraury 2018, contact me via e-mail with order ID I have to generate your license key. If you are not sure when you bought it you can try resend your license key to your e-mail.
 
 Read how to activate your PBE license in FAQ
