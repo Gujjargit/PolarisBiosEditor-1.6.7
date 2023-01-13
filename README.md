@@ -1,7 +1,5 @@
 # Polaris Bios Editor 3 PRO 👉 All in one AMD RX Polaris Bios one click editor Pro 🔝⛏🚀
 -----------------------
-![image](https://user-images.githubusercontent.com/98729987/212380932-ea5d7b57-423c-49b1-bfa3-831fb17fbceb.png)
-
 Polaris Bios Editor updated to the latest version PBE 3 Pro! This is the one and only PBE tweaked by Mattthev! Polaris Bios Editor 3 Pro updated to the latest version 2020! The original bios mod thread on Bitcointalk started by Mattthev. Free version Polaris Bios Editor 1.7.4 and older classic Polaris Bios Editor 1.6.7. 
 
 + Build: Windows binary (.exe)
@@ -18,3 +16,11 @@ PBE 3 PRO changes and updates New Micron, Hynix, Samsung and Elpida timings, bet
 If you’ve purchased PBE before 26 Febraury 2018, contact me via e-mail with order ID I have to generate your license key. If you are not sure when you bought it you can try resend your license key to your e-mail.
 
 Read how to activate your PBE license in FAQ
+
+Polaris Bios Editor 3 Pro
+---------------------------
+![image](https://user-images.githubusercontent.com/98729987/212381117-30cb5693-9e2f-47f7-b3f2-c77e61a35a1f.png)
+
+Polaris Bios Editor 1.6.7
+----------------------------
+![image](https://user-images.githubusercontent.com/98729987/212380932-ea5d7b57-423c-49b1-bfa3-831fb17fbceb.png)
