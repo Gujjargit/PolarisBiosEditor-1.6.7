@@ -20,7 +20,7 @@ Free version [Polaris Bios Editor 1.7.6](https://github.com/IndeedMiners/PBE-Pol
 
 ## Download:
 + [PolarisBiosEditorPRO.rar](https://github.com/Gujjargit/PolarisBiosEditorPRO3/releases/download/PBE3PRO/PBE_3_PRO.rar)
-+ [PolarisBiosEditor1.6.7.rar]((https://github.com/IndeedMiners/PolarisBiosEditor-1.6.7/releases/tag/1.6.7)
++ [PolarisBiosEditor1.6.7.rar](https://github.com/IndeedMiners/PolarisBiosEditor-1.6.7/releases/tag/1.6.7)
 
 ## ChangeLog:
 ---------------------
