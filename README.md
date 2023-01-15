@@ -18,6 +18,10 @@ Free version [Polaris Bios Editor 1.7.6](https://github.com/IndeedMiners/PBE-Pol
 + OS: Windows 10 is recommended (Windows 7 and 8 should be fine too), activation might not work on other OS
 + Polaris Bios Editor 3 PRO: https://mining-bios.eu/product/polaris-bios-editor-3-pro-pbe-3-pro-performance-timings/
 
+## Download:
++ [PolarisBiosEditorPRO.rar]
++ [PolarisBiosEditor1.6.7.rar]
+
 ## ChangeLog:
 ---------------------
 + PBE 3 PRO 2020 August Code cleanup
