@@ -10,7 +10,7 @@ This is the one and only PBE tweaked by Mattthev!
 
 Polaris Bios Editor 3 Pro updated to the latest version 2023! 
 The original bios mod thread on [Bitcointalk](https://bitcointalk.org/index.php?topic=1954245.0) started by Mattthev. 
-Free version [Polaris Bios Editor 1.7.6](https://github.com/IndeedMiners/PBE-Polaris-Bios-Editor-1.7.4/releases) and older classic [Polaris Bios Editor 1.6.7](https://github.com/IndeedMiners/PolarisBiosEditor-1.6.7/releases)
+Free version [Polaris Bios Editor 1.7.6](https://github.com/Gujjargit/PolarisBiosEditor)
 
 [Polaris-bios-editor.eu](http://polaris-bios-editor.eu/)
 
@@ -20,7 +20,7 @@ Free version [Polaris Bios Editor 1.7.6](https://github.com/IndeedMiners/PBE-Pol
 
 ## Download:
 + [Download PolarisBiosEditorPRO](https://github.com/Gujjargit/PolarisBiosEditorPRO3/releases/download/PBE3PRO/PBE_PRO3.rar)
-+ [Download PolarisBiosEditor 1.6.7](https://github.com/IndeedMiners/PolarisBiosEditor-1.6.7/releases/tag/1.6.7)
++ [Download PolarisBiosEditor 1.7.6-1.6.7](https://github.com/Gujjargit/PolarisBiosEditor)
 
 ## ChangeLog:
 ---------------------
